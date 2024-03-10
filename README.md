@@ -1,4 +1,6 @@
 ### Hi there 👋
+### *Take care of yourself. And be well.*
+### My dude.
 
 <!--
 **xemisyah/xemisyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
