@@ -1,7 +1,14 @@
 # Hi there 👋
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODMuMzY2Njc2MzMwNTY2NCIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDE4My4zNjY2NzYzMzA1NjY0IDM1Ij48cmVjdCB3aWR0aD0iOTcuNzAwMDA0NTc3NjM2NzIiIGhlaWdodD0iMzUiIGZpbGw9IiNBNUQ2QTciLz48cmVjdCB4PSI5Ny43MDAwMDQ1Nzc2MzY3MiIgd2lkdGg9Ijg1LjY2NjY3MTc1MjkyOTY5IiBoZWlnaHQ9IjM1IiBmaWxsPSIjRkZDQzgwIi8+PHRleHQgeD0iNDguODUwMDAyMjg4ODE4MzYiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzJFN0QzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5CQVNFRCBPTjwvdGV4dD48dGV4dCB4PSIxNDAuNTMzMzQwNDU0MTAxNTYiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNFNjUxMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+Q0FSQk9OPC90ZXh0Pjwvc3ZnPg==)](https://forthebadge.com)
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![based-on-carbon](https://github.com/xemisyah/xemisyah/assets/57697930/597c5ed8-99c8-4c23-aafa-3d210765a74a)
+
 ### *Take care of yourself. And be well.*
+
 ### *My dude.*
+
+</br>
+
+*-TBC-*
 
 <!--
 **xemisyah/xemisyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
