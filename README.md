@@ -10,6 +10,10 @@
 
 *-TBC-*
 
+感谢你看到这里~
+爱和成就都与我无关，我只是个普通人啦。
+正在为了每一天的日常，为了给自己一个完美的夏天，拼尽全力生活着。
+“向着那片蓁蓁花海。”
 <!--
 **xemisyah/xemisyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
